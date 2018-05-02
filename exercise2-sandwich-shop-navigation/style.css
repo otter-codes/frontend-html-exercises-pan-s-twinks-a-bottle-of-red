@@ -1,0 +1,114 @@
+
+.menu ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+    background-color: rgba(27, 122, 99, 0.938); 
+       } 
+ul {
+    list-style: none;
+
+        
+       }
+.menu ul li {  
+	display: inline; 
+	} 
+ 
+.menu ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	} 
+ 
+
+.heading {
+    text-align:center;
+    color:rgb(124, 44, 54);
+    font-weight:lighter;
+}
+
+.about_us {
+    text-align:center;
+    background-color: rgba(27, 122, 99, 0.938); 
+    color: #fff; 
+    padding: 30px;
+    font-weight:lighter;
+    font-size:12px;
+}
+
+h2 {
+    font-weight:lighter;
+}
+.menus {
+    text-align:center;
+    color:rgb(124, 44, 54);
+    font-weight:lighter;
+}
+.paninis_header {
+    text-align:center;
+    color:rgb(124, 44, 54);
+
+}
+.paninis_info {
+    text-align:center;
+    color:rgb(88, 83, 83);
+    font-size:12px;
+
+}
+.panini_list {
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+	
+
+    
+}
+
+.sarnie_header {
+    text-align:center;
+    color:rgb(124, 44, 54);
+
+}
+.sarnies_info {
+    text-align:center;
+    color:rgb(88, 83, 83);
+    font-size:12px;
+
+}
+h4 {
+    text-align:center;
+    color:rgb(124, 44, 54);
+}
+
+.meaty_sarnie_list{
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+}
+.fish_sarnie_list{
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+}
+.cheese_sarnie_list{
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+}
+.veggie_sarnie_list{
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+}
+.sources{
+    text-align: center;
+    color:rgb(124, 44, 54);
+}
+
+.statement{
+    color:rgb(88, 83, 83);
+    font-size:12px;
+    text-align: center;
+
+}
