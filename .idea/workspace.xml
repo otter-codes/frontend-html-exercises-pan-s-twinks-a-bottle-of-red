@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="231" />
+    <option name="y" value="730" />
+    <option name="width" value="2440" />
+    <option name="height" value="1431" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/play/todolist" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/CowsAndChickens" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/Greeting" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/Greeting-1" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/TDD-Partridge-and-Wages" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/kata-partridge-pan-s-twinks-a-bottle-of-red" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/katas" value="PREVIEW" />
+        <entry key="$USER_HOME$/TraingingFiles/string-calculator-kata-pan-s-twinks-a-bottle-of-red" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../BankOCRkata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Football" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../FootballMatches" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../count-odds-kenneth-rayner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ddcn_tech_academy_scalatest_template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nth-smallest-kenneth-rayner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-kata-2-kenneth-rayner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sum-of-singles-kenneth-rayner" value="PREVIEW" />
+        <entry key="$USER_HOME$/ddcn_tech_academy_testing_bootcamp/projects/cucumber_selenium_starter" value="PREVIEW" />
+        <entry key="$USER_HOME$/lunch-app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
